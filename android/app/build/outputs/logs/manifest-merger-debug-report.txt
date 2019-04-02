@@ -1,0 +1,206 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.react:react-native:0.58.6] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/851937f2462c8533cc1df831e060e4a6/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/820c20839ed8eb9add2d42a060e2bba9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/313c6f3b79e9bc9cf46c6f2c7a1273c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c46880736fe03c82d465dbe7b9543503/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c74f1acb236e9926a543ae03629f16a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/720917f0b6a403353ce15075417f8360/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f65726c521f65e288ce540d1d0eb93bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7548a6cbdb98766b25b449b1cb396a53/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/11b57c25584f6cf7b6e420b97be77907/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/012e6a05e563ebecd37ad3acdeca7e78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/36b85018d7000dcde5c7027027b0f5f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3de05b051365e8e26d5ec3483365dbb1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/589881691f3e67d0a53cd718cc9455a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3dff4b907b065352e377a95741f9479f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7212dfa51c2b7753e351e8c2fc55dacf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fcf1003be616083c1fda7c2beb8f3dd3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d891165614a046ef04277111910bb8f4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/feab6ad49246b44f62ab748fcbb7f630/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e2872728e7452fd60730a212a50e6192/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bc3cc9789a602653d8551ae1cd74dbda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1d028dc81f527bf4da587758ef712ac0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/29d1ffbc23efa9c6d5d3cdfe37534a7d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/997fcdccebebc7ad518f65c6d4c6e9f4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0bf0e985c69c880a33b9cdbad90f871d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dcf9de3cc0fc3e73e76229c88f5964a2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a9198eaab7ad5ee6771d395d14cbad2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8aecb9b0fb3bf8d5caac014063180ef3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/73fb419d4b004c6613a3c770dd3ccc8c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/0060334ed1ace67a21eaa429729f6adb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/894e7163f80e2b0ec4a33ce53d9ed0d4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/75552b60427aabdb9266428ad4f33efb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ef71d6259a72590d80a30739cb8af84f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/28de010886566c970384c1c94b74a201/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/df5dbffb7cfd7ba3c677bbe47a3856df/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/734655781a587abf1e0de69f705d75c9/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.6] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/851937f2462c8533cc1df831e060e4a6/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.6] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/851937f2462c8533cc1df831e060e4a6/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.facebook.react:react-native:0.58.6] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/851937f2462c8533cc1df831e060e4a6/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.6] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/851937f2462c8533cc1df831e060e4a6/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fcf1003be616083c1fda7c2beb8f3dd3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fcf1003be616083c1fda7c2beb8f3dd3/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d891165614a046ef04277111910bb8f4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d891165614a046ef04277111910bb8f4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/28de010886566c970384c1c94b74a201/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/28de010886566c970384c1c94b74a201/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/df5dbffb7cfd7ba3c677bbe47a3856df/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/df5dbffb7cfd7ba3c677bbe47a3856df/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fcf1003be616083c1fda7c2beb8f3dd3/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.firstproject.MainActivity
+ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.58.6] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/851937f2462c8533cc1df831e060e4a6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.6] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/react-native-0.58.6.aar/851937f2462c8533cc1df831e060e4a6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/820c20839ed8eb9add2d42a060e2bba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/820c20839ed8eb9add2d42a060e2bba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/313c6f3b79e9bc9cf46c6f2c7a1273c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/313c6f3b79e9bc9cf46c6f2c7a1273c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c46880736fe03c82d465dbe7b9543503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c46880736fe03c82d465dbe7b9543503/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c74f1acb236e9926a543ae03629f16a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c74f1acb236e9926a543ae03629f16a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/720917f0b6a403353ce15075417f8360/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/720917f0b6a403353ce15075417f8360/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f65726c521f65e288ce540d1d0eb93bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f65726c521f65e288ce540d1d0eb93bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7548a6cbdb98766b25b449b1cb396a53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/7548a6cbdb98766b25b449b1cb396a53/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/11b57c25584f6cf7b6e420b97be77907/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/11b57c25584f6cf7b6e420b97be77907/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/012e6a05e563ebecd37ad3acdeca7e78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/012e6a05e563ebecd37ad3acdeca7e78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/36b85018d7000dcde5c7027027b0f5f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/36b85018d7000dcde5c7027027b0f5f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3de05b051365e8e26d5ec3483365dbb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/3de05b051365e8e26d5ec3483365dbb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/589881691f3e67d0a53cd718cc9455a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/589881691f3e67d0a53cd718cc9455a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3dff4b907b065352e377a95741f9479f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/3dff4b907b065352e377a95741f9479f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7212dfa51c2b7753e351e8c2fc55dacf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/7212dfa51c2b7753e351e8c2fc55dacf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fcf1003be616083c1fda7c2beb8f3dd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fcf1003be616083c1fda7c2beb8f3dd3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d891165614a046ef04277111910bb8f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/d891165614a046ef04277111910bb8f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/feab6ad49246b44f62ab748fcbb7f630/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/feab6ad49246b44f62ab748fcbb7f630/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e2872728e7452fd60730a212a50e6192/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e2872728e7452fd60730a212a50e6192/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bc3cc9789a602653d8551ae1cd74dbda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/bc3cc9789a602653d8551ae1cd74dbda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1d028dc81f527bf4da587758ef712ac0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1d028dc81f527bf4da587758ef712ac0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/29d1ffbc23efa9c6d5d3cdfe37534a7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/29d1ffbc23efa9c6d5d3cdfe37534a7d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/997fcdccebebc7ad518f65c6d4c6e9f4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/997fcdccebebc7ad518f65c6d4c6e9f4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0bf0e985c69c880a33b9cdbad90f871d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0bf0e985c69c880a33b9cdbad90f871d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dcf9de3cc0fc3e73e76229c88f5964a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/dcf9de3cc0fc3e73e76229c88f5964a2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a9198eaab7ad5ee6771d395d14cbad2d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a9198eaab7ad5ee6771d395d14cbad2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8aecb9b0fb3bf8d5caac014063180ef3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/8aecb9b0fb3bf8d5caac014063180ef3/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/73fb419d4b004c6613a3c770dd3ccc8c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/73fb419d4b004c6613a3c770dd3ccc8c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/0060334ed1ace67a21eaa429729f6adb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/0060334ed1ace67a21eaa429729f6adb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/894e7163f80e2b0ec4a33ce53d9ed0d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/894e7163f80e2b0ec4a33ce53d9ed0d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/75552b60427aabdb9266428ad4f33efb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/75552b60427aabdb9266428ad4f33efb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ef71d6259a72590d80a30739cb8af84f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ef71d6259a72590d80a30739cb8af84f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/28de010886566c970384c1c94b74a201/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/28de010886566c970384c1c94b74a201/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/734655781a587abf1e0de69f705d75c9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/zapbuild/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/734655781a587abf1e0de69f705d75c9/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/zapbuild/Documents/ReactNativeProjects/FirstProject/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
